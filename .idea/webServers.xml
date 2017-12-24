@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf3811bb-798e-46c5-83fb-a07ebabc2fce" name="Apache on XAMPP" url="http://pisal.dev">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\SamboPisal" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
